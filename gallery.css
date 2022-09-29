@@ -1,0 +1,32 @@
+body{
+    background: darkcyan;
+    font-family: 'Open Sans', sans-serif;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.cover{
+    width: 1600px;
+    height: 400px;
+    /* background: #000; */
+    margin-top: 50px;
+    display: flex;
+}
+.box{
+    margin: 15px;
+    width: 800px;
+    height: 400px;
+    box-shadow: -1px 0 10px #000000;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    color: aquamarine;
+}
+img{
+    width: 550px;
+    height: 200px;
+    display: flex;
+    border-radius: 10px;
+}
